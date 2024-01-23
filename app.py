@@ -3,12 +3,10 @@ import streamlit as st
 import altair as alt
 from PIL import Image
 
-st.write('''
-# DNA Nucleotide Count Web App
-***Made By Emon Hasan***
-This app counts the nucleotide composition of query DNA!
-***
-''')
+st.write('''# DNA Nucleotide Count Web App''')
+st.write('***Made By Emon Hasan***')
+st.write('This app counts the nucleotide composition of query DNA!
+***')
 
 st.header('Enter DNA Sequence')
 
