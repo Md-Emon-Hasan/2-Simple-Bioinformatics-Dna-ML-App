@@ -5,8 +5,8 @@ from PIL import Image
 
 st.write('''# DNA Nucleotide Count Web App''')
 st.write('***Made By Emon Hasan***')
-st.write('This app counts the nucleotide composition of query DNA!
-***')
+st.write('''This app counts the nucleotide composition of query DNA!
+***''')
 
 st.header('Enter DNA Sequence')
 
