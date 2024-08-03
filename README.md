@@ -2,6 +2,8 @@
 
 Welcome to the **Simple Bioinformatics DNA Analysis App** machine learning project repository! This project focuses on analyzing DNA sequences using machine learning techniques to provide insights and predictions related to bioinformatics.
 
+![2](https://github.com/user-attachments/assets/bcfe33f9-1ccf-42b5-8813-562483443794)
+
 ## 📋 Contents
 
 - [Introduction](#introduction)
